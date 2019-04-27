@@ -18,7 +18,7 @@ install rtl_sdr<br>
 run the command rtl_tcp<br>
 start your gnuradio-companion<br>
 open the application igate_for_zr6aic_145_825_v1.grc<br>
-Adjust center frequency and the two ofsents for your use.<br>
+Adjust center frequency and the two offse frequencies for your use.<br>
 Then configure alsa loopback and direwolf to decode the audio signals.
 # Project status
 Gnuradio fm demodulator work but alsaconfig and direwolf details still need to be added.
