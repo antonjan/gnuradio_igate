@@ -12,7 +12,8 @@ Then configure direwolf to read the two audio channels and demodulate the afsk s
 The waterfall on the screen is two fft signals combined sothat you see both carriors (noise is duble so high) <br>
 # Application
 ![Igate controle pannel](images/Igate_screenshot_1.png?raw=true "I gate Frequency control")<br>
-![gnuradio block](images/Igate_for_zr6aic_145_825_v1.grc.png?raw=true "Gnuradio Block")
+Gnuradio Block Diagram<br>
+![gnuradio block](images/Igate_for_zr6aic_145_825_v1.grc.png?raw=true "Gnuradio Block")<br>
 # How to use
 Get an rtl -sdr dongle<br>
 install rtl_sdr<br>
